@@ -43,3 +43,4 @@ Thumbs.db
 
 #Modules 
 /node_modules/
+*.opendb
