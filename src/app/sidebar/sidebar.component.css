@@ -9,11 +9,11 @@
 }
 
 .Logo{
-  left: 5vw;
-  top: 2vh;
+  left: 7vw;
+  top: 1vh;
   position: fixed;
   width: 10vw;
-  height: 7vh;
+  height: 8vh;
 }
 
 
@@ -21,10 +21,11 @@
    display: inline-block;
    position: fixed;
    left: .5vw; 
-   top: 4.5vh;
+   top: 3.5vh;
    font-weight: 600;
-   font-size: 12px;
-   -webkit-transform: rotate(-25deg);
+   font-size: 14px;
+   -webkit-transform: rotate(-2
+   5deg);
 }
 
 @media(max-width: 1015px) {
